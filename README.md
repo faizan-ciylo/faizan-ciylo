@@ -79,23 +79,6 @@
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/{{GITHUB_USERNAME}}/{{REPO_INTERVIEWING_SYSTEM}}">
-    <img width="49%" alt="AI-Powered Interviewing System" src="https://github-readme-stats.vercel.app/api/pin/?username={{GITHUB_USERNAME}}&repo={{REPO_INTERVIEWING_SYSTEM}}&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/{{GITHUB_USERNAME}}/{{REPO_SOC_ANALYST}}">
-    <img width="49%" alt="AI SOC Analyst" src="https://github-readme-stats.vercel.app/api/pin/?username={{GITHUB_USERNAME}}&repo={{REPO_SOC_ANALYST}}&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/{{GITHUB_USERNAME}}/{{REPO_RECRUITMENT_PLATFORM}}">
-    <img width="49%" alt="AI Recruitment Platform" src="https://github-readme-stats.vercel.app/api/pin/?username={{GITHUB_USERNAME}}&repo={{REPO_RECRUITMENT_PLATFORM}}&theme=tokyonight&hide_border=true">
-  </a>
-  <a href="https://github.com/{{GITHUB_USERNAME}}/{{REPO_URDU_LIGATURE_OCR}}">
-    <img width="49%" alt="Urdu Ligature Recognition" src="https://github-readme-stats.vercel.app/api/pin/?username={{GITHUB_USERNAME}}&repo={{REPO_URDU_LIGATURE_OCR}}&theme=tokyonight&hide_border=true">
-  </a>
-</p>
-
 **AI-Powered Interviewing System** — A virtual interviewer that generates questions with an LLM, scores spoken answers via speech-to-text and semantic similarity, and verifies the candidate with DeepFace + MTCNN while watching for cheating. Won 1st prize at Bahria AI Innofest 2025 and cut manual screening time by roughly 70%.
 
 **AI SOC Analyst** — A multi-tool agent sitting on top of Wazuh SIEM data: it monitors system health, enriches alerts with threat intelligence, summarises them with an LLM and drafts an investigation plan. Interesting because the agent has to decide *which* tool to reach for under noisy, high-volume alert traffic.
@@ -105,7 +88,7 @@
 **Urdu Ligature Recognition** — AlexNet, VGG16 and a BLSTM head for Urdu ligature OCR at 83% accuracy. Urdu's cursive, context-sensitive ligatures break most off-the-shelf OCR assumptions, which is exactly why it was worth doing.
 
 <p align="center">
-  <a href="https://github.com/{{GITHUB_USERNAME}}?tab=repositories"><b>See all repositories &rarr;</b></a>
+  <a href="https://github.com/faizan-ciylo?tab=repositories"><b>See all repositories &rarr;</b></a>
 </p>
 
 ---
@@ -113,25 +96,36 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=faizan-ciylo&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true">
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizan-ciylo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com?user={{GITHUB_USERNAME}}&theme=tokyonight&hide_border=true">
+  <img width="70%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=faizan-ciylo&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img width="98%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username={{GITHUB_USERNAME}}&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8">
+  <img width="98%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=faizan-ciylo&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8">
+</p>
+
+<p align="center">
+  <img width="98%" alt="Metrics" src="https://raw.githubusercontent.com/faizan-ciylo/faizan-ciylo/main/metrics.svg">
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{GITHUB_USERNAME}}/{{GITHUB_USERNAME}}/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{GITHUB_USERNAME}}/{{GITHUB_USERNAME}}/output/github-snake.svg">
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/{{GITHUB_USERNAME}}/{{GITHUB_USERNAME}}/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faizan-ciylo/faizan-ciylo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faizan-ciylo/faizan-ciylo/output/github-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/faizan-ciylo/faizan-ciylo/output/github-snake.svg">
   </picture>
 </p>
+
+---
+
+## Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -195,14 +189,11 @@
   <a href="mailto:muhammadfaizansgc@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="{{PORTFOLIO_URL}}">
+  <a href="https://faizan-portfolio-ai.netlify.app">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0969DA?style=flat-square&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="https://x.com/{{TWITTER_HANDLE}}">
-    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&style=flat-square&color=0969DA">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=faizan-ciylo&style=flat-square&color=0969DA">
 </p>
